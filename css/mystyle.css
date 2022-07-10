@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    height: 100vh;
+}
+
+.nav-card {
+    margin-top: 10%;
+}
+
+.cover-img {
+    height: 280px;
+}
+
+.card-bg {
+    background-image: linear-gradient(to bottom right, red, yellow);
+    opacity: 0.8;
+}
